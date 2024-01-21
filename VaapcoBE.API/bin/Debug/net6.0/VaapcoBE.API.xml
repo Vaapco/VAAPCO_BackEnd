@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VaapcoBE.API</name>
+    </assembly>
+    <members>
+        <member name="M:VaapcoBE.API.Controllers.EventsController.AddEvents(VaapcoBE.API.RequestDTO.AddEventsRequest)">
+            <summary>
+            API to add upcoming events
+            </summary>
+            <param name="eventRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VaapcoBE.API.Controllers.EventsController.GetAllEvents">
+            <summary>
+            API to get the events list
+            </summary>
+             <returns></returns>
+        </member>
+        <member name="M:VaapcoBE.API.Controllers.EventsController.UpdateEvent(VaapcoBE.API.RequestDTO.UpdateEventsRequest)">
+            <summary>
+            API to update the event
+            </summary>
+            <param name="updateEvent"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VaapcoBE.API.Controllers.EventsController.DeleteEvent(System.Int32)">
+            <summary>
+            API to delete the event
+            </summary>
+            <param name="EId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VaapcoBE.API.Controllers.HeadlineController.AddHeadline(VaapcoBE.API.RequestDTO.AddHeadlineRequest)">
+            <summary>
+            API to add new headline
+            </summary>
+            <param name="headLineRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VaapcoBE.API.Controllers.HeadlineController.GetAllHeadlines">
+            <summary>
+            API to get all headlines
+            </summary>
+             <returns></returns>
+        </member>
+        <member name="M:VaapcoBE.API.Controllers.HeadlineController.UpdateHeadline(VaapcoBE.API.RequestDTO.UpdateHeadlineRequest)">
+            <summary>
+            API to update the headline
+            </summary>
+            <param name="updateheadline"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VaapcoBE.API.Controllers.HeadlineController.DeleteHeadline(System.Int32)">
+            <summary>
+            API to delete the headline
+            </summary>
+            <param name="HId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VaapcoBE.API.Controllers.UserController.RegisterUser(VaapcoBE.API.RequestDTO.RegisterUserRequest)">
+            <summary>
+            API to add a new user
+            </summary>
+            <param name="data">Enter details of new user</param>
+            <returns></returns>
+        </member>
+        <member name="M:VaapcoBE.API.Controllers.UserController.LoginUser(VaapcoBE.API.RequestDTO.LoginUser)">
+            <summary>
+            API for User Login
+            </summary>
+            <param name="loginDTO">Enter Login details</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

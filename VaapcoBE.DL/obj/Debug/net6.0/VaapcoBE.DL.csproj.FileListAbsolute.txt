@@ -1,0 +1,14 @@
+C:\Users\ankit\source\repos\Vaapco_Website\VAAPCO_BackEnd\VaapcoBE.DL\bin\Debug\net6.0\VaapcoBE.DL.deps.json
+C:\Users\ankit\source\repos\Vaapco_Website\VAAPCO_BackEnd\VaapcoBE.DL\bin\Debug\net6.0\VaapcoBE.DL.runtimeconfig.json
+C:\Users\ankit\source\repos\Vaapco_Website\VAAPCO_BackEnd\VaapcoBE.DL\bin\Debug\net6.0\VaapcoBE.DL.dll
+C:\Users\ankit\source\repos\Vaapco_Website\VAAPCO_BackEnd\VaapcoBE.DL\bin\Debug\net6.0\VaapcoBE.DL.pdb
+C:\Users\ankit\source\repos\Vaapco_Website\VAAPCO_BackEnd\VaapcoBE.DL\obj\Debug\net6.0\VaapcoBE.DL.csproj.AssemblyReference.cache
+C:\Users\ankit\source\repos\Vaapco_Website\VAAPCO_BackEnd\VaapcoBE.DL\obj\Debug\net6.0\VaapcoBE.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\source\repos\Vaapco_Website\VAAPCO_BackEnd\VaapcoBE.DL\obj\Debug\net6.0\VaapcoBE.DL.AssemblyInfoInputs.cache
+C:\Users\ankit\source\repos\Vaapco_Website\VAAPCO_BackEnd\VaapcoBE.DL\obj\Debug\net6.0\VaapcoBE.DL.AssemblyInfo.cs
+C:\Users\ankit\source\repos\Vaapco_Website\VAAPCO_BackEnd\VaapcoBE.DL\obj\Debug\net6.0\VaapcoBE.DL.csproj.CoreCompileInputs.cache
+C:\Users\ankit\source\repos\Vaapco_Website\VAAPCO_BackEnd\VaapcoBE.DL\obj\Debug\net6.0\VaapcoBE.DL.dll
+C:\Users\ankit\source\repos\Vaapco_Website\VAAPCO_BackEnd\VaapcoBE.DL\obj\Debug\net6.0\refint\VaapcoBE.DL.dll
+C:\Users\ankit\source\repos\Vaapco_Website\VAAPCO_BackEnd\VaapcoBE.DL\obj\Debug\net6.0\VaapcoBE.DL.pdb
+C:\Users\ankit\source\repos\Vaapco_Website\VAAPCO_BackEnd\VaapcoBE.DL\obj\Debug\net6.0\VaapcoBE.DL.genruntimeconfig.cache
+C:\Users\ankit\source\repos\Vaapco_Website\VAAPCO_BackEnd\VaapcoBE.DL\obj\Debug\net6.0\ref\VaapcoBE.DL.dll

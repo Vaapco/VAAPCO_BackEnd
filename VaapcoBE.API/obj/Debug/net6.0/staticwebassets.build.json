@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "CfS8k0vfcKmHU5wwBdUrgRxqQYqLoXi4tqhRgtTnsP0=",
+  "Source": "VaapcoBE.API",
+  "BasePath": "_content/VaapcoBE.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VaapcoBE.API\\wwwroot",
+      "Source": "VaapcoBE.API",
+      "ContentRoot": "C:\\Users\\ankit\\source\\repos\\Vaapco_Website\\VAAPCO_BackEnd\\VaapcoBE.API\\wwwroot\\",
+      "BasePath": "_content/VaapcoBE.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
